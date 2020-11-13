@@ -1,0 +1,8 @@
+body {
+  font-family: BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+}
+
+.app {
+    margin: 2rem auto 0 auto;
+    max-width: 900px;
+  }

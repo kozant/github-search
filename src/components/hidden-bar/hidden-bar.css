@@ -1,0 +1,19 @@
+.issues-reset-text strong,span {
+    margin-right: 5px;
+}
+
+.issues-reset-query {
+    cursor: pointer;
+}
+
+.issues-reset-query-icon {
+    width: 18px;
+    height: 18px;
+    padding: 1px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #6a737d;
+    border-radius: 6px;
+}
